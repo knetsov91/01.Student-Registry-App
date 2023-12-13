@@ -1,0 +1,6 @@
+include header.pug
+
+h1 new View
+
+
+include footer.pug
